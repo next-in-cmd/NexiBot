@@ -16,7 +16,9 @@ To employ any of these methods, simply configure the appropriate settings in the
 
 ## RAG-GPT User Interface
 <div align="center">
-  <img src="images/RAGGPT UI.png" alt="RAG-GPT UI">
+  <img src="images/RAGGPT UI.png" alt="RAG-GPT UI"> 
+  ![Gailassist Interface](https://github.com/user-attachments/assets/40923025-2a09-442d-8447-5a1220de61af)
+
 </div>
 
 ## Project Schema
