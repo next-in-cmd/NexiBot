@@ -59,7 +59,7 @@ For training the GailAssist model, we collected a comprehensive dataset of resea
 
 
 # Model Building References: 
-Extra read:
+
 - [GPT model](https://platform.openai.com/docs/models/overview) 
 - [Langchain](https://python.langchain.com/docs/get_started/quickstart)
 - [ChromaDB](https://www.trychroma.com/)
