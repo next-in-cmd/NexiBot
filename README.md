@@ -1,4 +1,4 @@
-# GailAssist: Retrieval Augmented generation (RAG) chatbot using OpenAI GPT Model, Langchain, ChromaDB, and Gradio
+# GailAssist: Advanced AI-Driven Chatbot for Organizational Efficiency
 
 **GailAssist** supports both PDFs and Docs. 
 
