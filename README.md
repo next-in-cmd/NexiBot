@@ -1,10 +1,6 @@
-# GailAssist: Advanced AI-Driven Chatbot for Organizational Efficiency 
-GailAssist is an AI-powered chatbot built on a Retrieval-Augmented Generation (RAG) model, designed to enhance communication within large public sector organizations. By leveraging the RAG architecture, GailAssist combines the power of natural language understanding with real-time information retrieval, ensuring accurate and contextually relevant responses to employee queries. Whether it's questions about HR policies, IT support, or upcoming company events, GailAssist can efficiently pull from vast internal databases and knowledge bases to provide precise answers. This not only reduces delays and inefficiencies but also allows employees to get the support they need instantly, streamlining operations across the organization. 
+#  NexiBot: Advanced AI-Driven Chatbot for Organizational Efficiency 
+ NexiBot is an AI-powered chatbot built on a Retrieval-Augmented Generation (RAG) model, designed to enhance communication within large public sector organizations. By leveraging the RAG architecture,  NexiBot combines the power of natural language understanding with real-time information retrieval, ensuring accurate and contextually relevant responses to employee queries. Whether it's questions about HR policies, IT support, or upcoming company events,  NexiBot can efficiently pull from vast internal databases and knowledge bases to provide precise answers. This not only reduces delays and inefficiencies but also allows employees to get the support they need instantly, streamlining operations across the organization. 
 
-# GailAssist User Interface:
-<div>
-  <img src="images/Gailassist Interface.jpg"
-</div>
 
 # Problem Statement: 
 **Challenges And Problems:** 
@@ -50,7 +46,7 @@ Deep learning frameworks for model training and inference.
 
 # Reserach And References:
 
-For training the GailAssist model, we collected a comprehensive dataset of research papers from ResearchGate. These papers, covering topics related to HR policies, IT support, and organizational communication, were used to fine-tune the model, ensuring it could provide accurate and context-specific responses. By leveraging this diverse and high-quality dataset, we enhanced GailAssist’s ability to retrieve and generate relevant information for employee queries in large organizations. 
+For training the  NexiBot model, we collected a comprehensive dataset of research papers from ResearchGate. These papers, covering topics related to HR policies, IT support, and organizational communication, were used to fine-tune the model, ensuring it could provide accurate and context-specific responses. By leveraging this diverse and high-quality dataset, we enhanced NexiBot ability to retrieve and generate relevant information for employee queries in large organizations. 
 
 **References:** 
 1. https://www.researchgate.net/publication/379570393_Recent_Trends_in_Human_Resource_Management
