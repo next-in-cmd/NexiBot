@@ -37,7 +37,7 @@ Deep learning frameworks for model training and inference.
  
 **3. Data Storage:**
 
-**MySQL:** Relational databases to store structured data, such as employee details, HR policies, and IT support tickets. 
+**MongoDB:** Relational databases to store structured data, such as employee details, HR policies, and IT support tickets. 
 
 **4. Frontend Interface:** 
 
