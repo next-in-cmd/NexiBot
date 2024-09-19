@@ -1,1 +1,7 @@
+For training the NexiBot model, we collected a comprehensive dataset of research papers from ResearchGate. These papers, covering topics related to HR policies, IT support, and organizational communication, were used to fine-tune the model, ensuring it could provide accurate and context-specific responses. By leveraging this diverse and high-quality dataset, we enhanced NexiBot ability to retrieve and generate relevant information for employee queries in large organizations.
 
+References:
+
+https://www.researchgate.net/publication/379570393_Recent_Trends_in_Human_Resource_Management
+https://www.researchgate.net/publication/379494146_A_Study_on_Employees_towards_HR_Policy_and_Practice
+https://www.researchgate.net/publication/383189993_Analyzing_the_Contribution_of_HR_Policies_to_Innovation_and_Develop-ment_in_Viksit_Bharat%27s_Emerging_Sectors
