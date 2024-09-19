@@ -3,7 +3,8 @@
 
 **NOTE:** We have changed our chatbot name from **GailAssist** to **NexiBot**.
 
-![nexibot](https://github.com/user-attachments/assets/f11a5f00-5de8-40d4-8672-c0f5c2c1432a)
+![nexibot1](https://github.com/user-attachments/assets/ed2fe14f-e1f5-4fe1-9f67-441f39d02c40)
+
 
 
 # Problem Statement: 
