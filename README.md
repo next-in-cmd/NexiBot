@@ -1,5 +1,8 @@
 #  NexiBot: Advanced AI-Driven Chatbot for Organizational Efficiency 
- NexiBot is an AI-powered chatbot built on a Retrieval-Augmented Generation (RAG) model, designed to enhance communication within large public sector organizations. By leveraging the RAG architecture,  NexiBot combines the power of natural language understanding with real-time information retrieval, ensuring accurate and contextually relevant responses to employee queries. Whether it's questions about HR policies, IT support, or upcoming company events,  NexiBot can efficiently pull from vast internal databases and knowledge bases to provide precise answers. This not only reduces delays and inefficiencies but also allows employees to get the support they need instantly, streamlining operations across the organization.
+ NexiBot is an AI-powered chatbot built on a Retrieval-Augmented Generation (RAG) model, designed to enhance communication within large public sector organizations. By leveraging the RAG architecture,  NexiBot combines the power of natural language understanding with real-time information retrieval, ensuring accurate and contextually relevant responses to employee queries. Whether it's questions about HR policies, IT support, or upcoming company events,  NexiBot can efficiently pull from vast internal databases and knowledge bases to provide precise answers. This not only reduces delays and inefficiencies but also allows employees to get the support they need instantly, streamlining operations across the organization. 
+
+**NOTE:** We have changed our chatbot name from **GailAssist** to **NexiBot**.
+
 ![nexibot](https://github.com/user-attachments/assets/f11a5f00-5de8-40d4-8672-c0f5c2c1432a)
 
 
