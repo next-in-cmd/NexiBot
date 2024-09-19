@@ -19,7 +19,8 @@ Integration.
 
 # How It Works (Architecture & Workflow): 
 
-![image](https://github.com/user-attachments/assets/519c5a86-ac12-48fb-9d6f-a4e4118470dd) 
+![image](https://github.com/user-attachments/assets/0ffb3865-8909-4711-bfe2-88920cbca2ef)
+
 
 # Tech Stack: 
 **1. AI and NLP Model:**
