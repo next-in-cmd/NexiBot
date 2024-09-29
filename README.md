@@ -23,7 +23,7 @@ Integration.
 
 # How It Works (Architecture & Workflow): 
 
-![image](https://github.com/user-attachments/assets/0ffb3865-8909-4711-bfe2-88920cbca2ef)
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/e24d887d-9c9b-4204-be79-6aa009cffe7f">
 
 
 # Tech Stack: 
